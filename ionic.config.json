@@ -1,0 +1,7 @@
+{
+  "name": "proyectoAnime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
